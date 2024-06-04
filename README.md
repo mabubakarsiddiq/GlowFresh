@@ -1,3 +1,3 @@
-# Responsive Glow Fresh Website (Practice)
+# Glow Fresh Responsive Website (Practice)
 
  https://mabubakarsiddiq.github.io/GlowFresh
